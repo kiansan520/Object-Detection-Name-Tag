@@ -19,8 +19,7 @@ https://labelstud.io/
         # Launch it!
         label-studio
 2. Register, Create Project
-
-![Alt text](Project Snapshots/data_label.png)
+![data_label](https://github.com/user-attachments/assets/95ac6f19-ec00-4359-85de-4798310e21c4)
 
 3. Enter Project name, import data, labeling setup: Object Detection with Bounding boxes
 4. Remove the default label options and input desired label options, then press "Add"
