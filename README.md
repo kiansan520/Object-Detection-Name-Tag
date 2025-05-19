@@ -27,7 +27,7 @@ https://labelstud.io/
 6. Click into any of the image data imported, start labeling (press 1,2,3/ any options and start to drag a box, then press submit)
 ![data_label_input](https://github.com/user-attachments/assets/2be17b69-5d38-4553-a9de-ea77620b9210)
 
-7. After labeling, press "Export", then choose "YOLO with images"
+7. After labeling 50 ish inputs, press "Export", then choose "YOLO with images"
 8. Download the folder
 9. Rename the folder to Data.zip
 
