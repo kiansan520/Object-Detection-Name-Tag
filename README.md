@@ -1,5 +1,5 @@
 # Object-Detection-Name-Tag
-Method used: Data Labeling, YOLO model, python, opencv 
+Method used: Data Labeling, YOLO model, python, pytorch, opencv 
 
 Software used: Label Studio, Google Collab, PyCharm
 
